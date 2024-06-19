@@ -58,7 +58,7 @@ CREATE TABLE Reservations (
     comments TEXT
 );
 
-DROP TABLE Users
+
 
 
 SELECT * FROM Reservations 
